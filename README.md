@@ -15,7 +15,7 @@
 
 ---
 
-## Features
+## 🚀 Features
 
 - **Automatic GPU Detection** - Supports NVIDIA, AMD, and Intel graphics.
 - **Zen Kernel** - Low-latency kernel optimized for gaming.
