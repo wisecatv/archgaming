@@ -28,7 +28,7 @@
 
 ## 🔧 Installation
 ```
-sudo pacman -S --noconfirm git && git clone 
+sudo pacman -S --noconfirm git && git clone https://github.com/wisecatv/archgaming.git
 cd archgaming && chmod +x archgaming.sh && ./archgaming.sh
 ```
 
