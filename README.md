@@ -27,9 +27,9 @@
 - **Multilib Support** - Enables 32-bit library support for compatibility.
 
 ## 🔧 Installation
-
+```
 1) sudo pacman -S --noconfirm git && git clone 
-2 ) cd  && chmod +x  && ./
+2 ) cd archgaming && chmod +x archgaming.sh && ./archgaming.sh
 ```
 
 ## 📦 What's Included
@@ -62,17 +62,18 @@
    ```
 
 2. **Follow the prompts:**
-   - Choose whether to install game launchers
-   - Choose whether to install MangoHud
+   - Keep an eye on the script running to see logs.
+   - Choose whether to install game launchers.
+   - Choose whether to install MangoHud.
 
-3. **Reboot your system:**
+3. **Reboot your system to apply modifications:**
    ```bash
    sudo reboot
    ```
 
 4. **Start gaming!** 🎮
 
-## 🎯 Pro Tips
+## Tips
 
 ### For Steam Games
 Add this to your game's launch options:
@@ -83,7 +84,7 @@ gamemoderun %command%
 ### For Lutris/Heroic
 - ✅ Enable **GameMode** in game settings
 - ✅ Enable **MangoHud** for performance monitoring (if installed)
-- 💻 On laptops: Enable **"Use Dedicated Graphics Card"**
+- 💻 On gaming laptops: Enable **"Use Dedicated Graphics Card"**
 
 ### Custom GameMode Config
 Place a `gamemode.ini` file in the same directory as the script for custom GameMode settings.
