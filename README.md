@@ -28,8 +28,8 @@
 
 ## 🔧 Installation
 ```
-1) sudo pacman -S --noconfirm git && git clone 
-2 ) cd archgaming && chmod +x archgaming.sh && ./archgaming.sh
+sudo pacman -S --noconfirm git && git clone 
+cd archgaming && chmod +x archgaming.sh && ./archgaming.sh
 ```
 
 ## 📦 What's Included
